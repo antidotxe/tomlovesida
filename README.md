@@ -3,7 +3,7 @@
 </p>
 
 # About Me
-Yo, I'm Tom I mainly work with **Java, Python, and PHP**, and I do a bit of **reverse engineering** every now and then.  
+Yo, I mainly work with **Java, Python, and PHP**, and I do a bit of **reverse engineering** every now and then.  
 Right now I’m focused on building an **Open-Source Snipping Tool Alternative** and a **Controller Emulator**.
 
 I’m also the **ex-dev/owner of Silk.cc**, a Minecraft mod that had around **100+ active users** and a community of **500+ people**.  
